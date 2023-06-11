@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HandBagTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-06-11T00:40:49" hostname="Abubakars-MBP" time="0.012">
+  <properties/>
+  <testcase name="TestSetColor" classname="HandBagTest" time="0.004"/>
+  <testcase name="testGetColor" classname="HandBagTest" time="0.002"/>
+  <testcase name="TestEnhance" classname="HandBagTest" time="0.001"/>
+  <testcase name="TestGetCapacity" classname="HandBagTest" time="0.001"/>
+  <testcase name="TestIncreaseCapacity" classname="HandBagTest" time="0.001"/>
+  <testcase name="testGetNumberOfContentsPop" classname="HandBagTest" time="0.0"/>
+  <testcase name="testGetNumberOfContentsNonEmpty" classname="HandBagTest" time="0.0"/>
+  <testcase name="testGetNumberOfContentsEmpty" classname="HandBagTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
